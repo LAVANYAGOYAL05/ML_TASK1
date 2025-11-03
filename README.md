@@ -112,5 +112,5 @@ scikit-learn (only for loading datasets and preprocessing)
 
 ---
 **Author**: [Lavanya Goyal]  
-**Date**: November 2025  
+**Date**: 3rd November 2025  
 **Task**: ML Task 1 - Linear and Logistic Regression from Scratch
