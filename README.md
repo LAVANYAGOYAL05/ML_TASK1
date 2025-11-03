@@ -111,6 +111,6 @@ scikit-learn (only for loading datasets and preprocessing)
 - Implementation inspired by fundamental machine learning concepts
 
 ---
-**Author**: [Your Name]  
+**Author**: [Lavanya Goyal]  
 **Date**: November 2025  
 **Task**: ML Task 1 - Linear and Logistic Regression from Scratch
